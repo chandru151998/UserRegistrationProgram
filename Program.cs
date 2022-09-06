@@ -11,7 +11,7 @@ namespace TestProject
         {
             //Arrange
             UserRegi name = new UserRegi();
-            string firstName = "Vidhya";
+            string firstName = "Chandru";
             //Assert.IsTrue(name.IsValidName(firstName));
 
         }
@@ -20,7 +20,7 @@ namespace TestProject
         {
             //Arrange
             UserRegi name = new UserRegi();
-            string lastName = "Darade";
+            string lastName = "Kalahalamath";
             //Assert.IsTrue(name.IsValidName(lastName));
 
         }
